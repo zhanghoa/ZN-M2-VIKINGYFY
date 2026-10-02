@@ -1,8 +1,7 @@
 name: Cache-Clean
 
 on:
-  schedule:
-    - cron: 0 20 * * 0
+  #仅手动清理缓存（已关闭定时清理）
   workflow_dispatch:
 
 permissions: write-all
