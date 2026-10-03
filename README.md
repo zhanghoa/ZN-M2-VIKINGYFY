@@ -1,3 +1,7 @@
+> ⚠️ **本仓库已归档（ARCHIVED）**
+> OpenWrt 固件编译已统一迁移到 [zhanghoa/openwrt-ci](https://github.com/zhanghoa/openwrt-ci)（单一编译入口，仅手动 `workflow_dispatch`）。
+> 本仓库的工作流已停用并移入 `.github/workflows-disabled/`，不再维护，仅作历史参考。
+>
 # OpenWRT-CI
 
 官方版：
